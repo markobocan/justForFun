@@ -1,1 +1,2 @@
 Tekst iz prve datoteke.
+Dodajem neku rečenicu u prvu datoteku.
